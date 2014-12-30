@@ -1,2 +1,2 @@
-welcome to vrmlstudio.
-this is my first open source projects
+虚拟现实工作室(VrmlStudio)
+===================================
